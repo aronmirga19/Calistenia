@@ -6,7 +6,6 @@
 
 Train with a structured calisthenics program, log every set, track your nutrition, run cardio with live GPS, and let an AI coach adapt the plan to you. Free, open source, and self-hostable.
 
-**[📱 Download the Android app](https://gym.guille.tech/download?utm_source=github&utm_medium=readme&utm_campaign=repo)** &nbsp;·&nbsp; **[🌐 Try the web app](https://gym.guille.tech/?utm_source=github&utm_medium=readme&utm_campaign=repo)** &nbsp;·&nbsp; **[⭐ Star this repo](https://github.com/guillermoscript/calistenia-app)**
 
 ![React Native](https://img.shields.io/badge/React_Native-Expo-000?logo=expo)
 ![React](https://img.shields.io/badge/Web-React_+_Vite-61DAFB?logo=react&logoColor=000)
