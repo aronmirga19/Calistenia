@@ -55,7 +55,7 @@ jobs:
           distribution: 'temurin'
 
       - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
+        uses: android-actions/setup-android@v4
         with:
           # Sin esto la acción instala su lista por defecto, que incluye el paquete
           # obsoleto `tools`: Google lo retiró del repositorio y sdkmanager sale con
