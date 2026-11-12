@@ -34,7 +34,7 @@ Most fitness apps are paywalled, bloated, or cloud-locked. Calistenia is the opp
 - **🔓 Free & open source (MIT)** — no subscription, no ads. Self-host it on a cheap VPS and own your data.
 - **📲 Real native app + web PWA** — install the Android APK or use it in any browser.
 
-> **Get it now:** [gym.guille.tech/download](https://gym.guille.tech/download?utm_source=github&utm_medium=readme&utm_campaign=repo) (Android) or [gym.guille.tech](https://gym.guille.tech/?utm_source=github&utm_medium=readme&utm_campaign=repo) (web).
+
 
 ## Features
 
